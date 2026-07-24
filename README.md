@@ -1,3 +1,5 @@
+<img width="1917" height="987" alt="Screenshot 2026-07-24 144119" src="https://github.com/user-attachments/assets/aef9b050-11c9-40ad-b37a-abaa6f79db29" />
+<img width="1917" height="987" alt="Screenshot 2026-07-24 144119" src="https://github.com/user-attachments/assets/ac18b1a2-31c4-4420-a2ed-6986fab97b9a" />
 
 # 🤖 Rule-Based AI Chatbot
 
