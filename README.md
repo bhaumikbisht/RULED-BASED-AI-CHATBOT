@@ -1,3 +1,4 @@
+<img width="1240" height="340" alt="WhatsApp Image 2026-07-24 at 10 23 15 PM" src="https://github.com/user-attachments/assets/a355d40a-08cb-444c-b6a2-8b2d21b0b053" />
 
 
 <p align="center">
