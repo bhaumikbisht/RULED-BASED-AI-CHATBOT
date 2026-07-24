@@ -1,3 +1,10 @@
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&pause=1000&color=00F2FE&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+SmartBot+%F0%9F%A4%96;Rule-Based+AI+Chatbot+System;Intelligent+Pattern+Matching+%26+Responses;Automated+Conversational+Workflows" alt="Typing SVG" />
+  </a>
+</p>
 # 🤖 Rule-Based AI Chatbot
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
