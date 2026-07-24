@@ -1,5 +1,3 @@
-<img width="1917" height="987" alt="Screenshot 2026-07-24 144119" src="https://github.com/user-attachments/assets/aef9b050-11c9-40ad-b37a-abaa6f79db29" />
-
 # 🤖 Rule-Based AI Chatbot
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
@@ -200,7 +198,7 @@ Chatbot: Goodbye! Session ended successfully.
 ---
 
 # 📸 Screenshots
-
+<img width="1917" height="987" alt="Screenshot 2026-07-24 144119" src="https://github.com/user-attachments/assets/aef9b050-11c9-40ad-b37a-abaa6f79db29" />
 
 
 
